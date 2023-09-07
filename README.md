@@ -1,2 +1,2 @@
 # firstone
-My fisrt one repository
+My first one repository
